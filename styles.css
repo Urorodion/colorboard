@@ -12,7 +12,7 @@ body {
   margin: 0;
 }
 
-.container{
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,17 +22,15 @@ body {
   overflow: hidden;
 }
 
-
-
-.square{
+.square {
   width: 1.5vw;
   height: 1.5vw;
   background-color: #1d1d1d;
   margin: 0.2vw;
-  box-shadow:  0 0 2px #111;
+  box-shadow: 0 0 2px #111;
   transition: 2s ease;
 }
 
-.square:hover{
+.square:hover {
   transition-duration: 0s;
 }
